@@ -1,4 +1,9 @@
 /* USER CODE BEGIN Header */
+
+/* Simple programme that presents the measurements from accelerometer
+and gyroscope on OLED display. 
+
+*/
 /**
   ******************************************************************************
   * @file           : main.c

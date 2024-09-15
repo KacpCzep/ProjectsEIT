@@ -8,3 +8,5 @@ SNOObear - C language project, it manages the speaker and detectors to check if 
 
 
 Accelerometer - C language project, also checking the measurement results and dynamically present them on OLED diplay. Used uC: STM32-H7A3ZI-Q.
+
+Python - includes few, very simple tasks from classes.
